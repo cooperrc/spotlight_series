@@ -5,3 +5,4 @@ format: jb-book
 root: README
 chapters:
 - file: 202512_baig
+- file: 202602_Pascal
